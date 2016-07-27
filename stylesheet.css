@@ -35,6 +35,6 @@ p { font-family: 'Lobster', cursive;
  }
  .nav > li:hover a {
      opacity: 1;
-     color:#000;
-     border-color:#000;
+     color:#FF1493 ;
+     border-color:#FF1493 ;
  }
